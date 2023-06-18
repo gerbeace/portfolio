@@ -371,7 +371,7 @@ p {
   content: "";
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  width: 60px;
+  width: 30px;
   height: 1px;
   background-color: #eee;
   position: absolute;
